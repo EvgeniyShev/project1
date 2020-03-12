@@ -1,12 +1,7 @@
 .advantages {
     min-height: 473px;
-    background: #F6F6F6;
-    font-weight: 500;
-    font-size: 30px;
-    line-height: 36px;
-    text-align: center;
-    color: #0D0D0D;
-    padding-top: 72px;
+    background-color: #F6F6F6;
+    padding-top: 72px;//
     &__chapters {
         display: flex;
         justify-content: space-between;
@@ -22,6 +17,7 @@
         line-height: 22px;
         text-align: center;
         padding: 0 50px;
+        color: #0D0D0D;
         img {
             margin: 16px auto;
             //margin-bottom: 10px;
@@ -29,6 +25,7 @@
         span {
             margin-top: 15px;
             font-weight: 500;
+            color: #0D0D0D;
             font-size: 14px;
             line-height: 17px;
             text-align: center;
